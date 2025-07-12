@@ -12,3 +12,6 @@ https://ayushgirulkar.github.io/OIBSIP/Task1/ (website link)
 ---
 Task -2)🤩 I've designed and built my personal portfolio website using HTML and CSS, showcasing my projects and skills in a clean and organized layout.
           https://ayushgirulkar.github.io/OIBSIP/Task2/ (website link)
+
+---
+Task -3)❄️ I’ve developed a Temperature Converter website using HTML, CSS, and JavaScript that allows users to easily convert values between Celsius, Fahrenheit, and Kelvin. The interface is clean, user-friendly, and responsive, with dropdowns to select units, input validation, and instant conversion results. This project demonstrates my ability to build interactive and dynamic web applications. https://ayushgirulkar.github.io/OIBSIP/Task3/ (website link)
